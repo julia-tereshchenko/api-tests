@@ -1,0 +1,6 @@
+allure-pytest
+faker
+requests
+pytest
+voluptuous
+pytest-voluptuous
